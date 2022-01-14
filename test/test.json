@@ -1,4 +1,12 @@
 {
-  "key1": "value1",
-  "key2": "value2"
+  {
+    "id": "1",
+    "title": "This is title 1",
+    "link": "www.google.com"
+  },
+  {
+    "id": "2",
+    "title": "This is title 2",
+    "link": "www.facebook.com"
+  }
 }
