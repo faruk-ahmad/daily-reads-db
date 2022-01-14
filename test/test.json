@@ -1,5 +1,5 @@
 {
-  [{
+  "articles": [{
     "id": "1",
     "title": "This is title 1",
     "link": "www.google.com"
