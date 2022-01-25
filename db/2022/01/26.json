@@ -1,0 +1,13 @@
+{
+  "articles": [{
+    "id": "1",
+    "title": "The Surprising Truth About What it Takes to Build a Machine Learning Product",
+    "link": "https://medium.com/thelaunchpad/the-ml-surprise-f54706361a6c"
+  },
+  {
+    "id": "2",
+    "title": "Is High Quality Software Worth the Cost?",
+    "link": "https://martinfowler.com/articles/is-quality-worth-cost.html"
+  }
+  ]
+}
