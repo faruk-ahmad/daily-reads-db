@@ -8,6 +8,11 @@
     "id": "2",
     "title": "Is High Quality Software Worth the Cost?",
     "link": "https://martinfowler.com/articles/is-quality-worth-cost.html"
+  },
+  {
+    "id": "3",
+    "title": "The Clean Architecture — Beginner’s Guide",
+    "link": "https://betterprogramming.pub/the-clean-architecture-beginners-guide-e4b7058c1165"
   }
   ]
 }
