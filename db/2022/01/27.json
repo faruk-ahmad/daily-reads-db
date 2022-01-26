@@ -1,0 +1,24 @@
+{
+  "articles": [
+    {
+      "id": "1",
+      "title": "How Khan Academy Rewrote their Backend",
+      "link": "https://www.quastor.org/p/how-khan-academy-rewrote-their-backend"
+    },
+    {
+      "id": "2",
+      "title": "",
+      "link": ""
+    },
+    {
+      "id": "3",
+      "title": "",
+      "link": ""
+    },
+    {
+      "id": "4",
+      "title": "",
+      "link": ""
+    }
+  ]
+}

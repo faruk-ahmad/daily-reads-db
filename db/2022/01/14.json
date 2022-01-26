@@ -1,23 +1,24 @@
 {
-  "articles": [{
-    "id": "1",
-    "title": "This is title 1",
-    "link": "www.google.com"
-  },
-  {
-    "id": "2",
-    "title": "This is title 2",
-    "link": "www.facebook.com"
-  },
-  {
-    "id": "3",
-    "title": "This is title 3",
-    "link": "www.facebook.com"
-  },
-  {
-    "id": "4",
-    "title": "This is title 4",
-    "link": "www.facebook.com"
-  }
+  "articles": [
+    {
+      "id": "1",
+      "title": "This is title 1",
+      "link": "www.google.com"
+    },
+    {
+      "id": "2",
+      "title": "This is title 2",
+      "link": "www.facebook.com"
+    },
+    {
+      "id": "3",
+      "title": "This is title 3",
+      "link": "www.facebook.com"
+    },
+    {
+      "id": "4",
+      "title": "This is title 4",
+      "link": "www.facebook.com"
+    }
   ]
 }
