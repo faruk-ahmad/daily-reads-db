@@ -1,0 +1,14 @@
+{
+  "articles": [
+    {
+      "id": "1",
+      "title": "20 Git commands every developer should know",
+      "link": "https://enlear.academy/26-git-command-i-use-all-the-time-cheatsheet-6c5682ded2af"
+    },
+    {
+      "id": "2",
+      "title": "Google pystyleguide, the one guide you need to know for writing clean code in python!",
+      "link": "https://google.github.io/styleguide/pyguide.html"
+    }
+  ]
+}
