@@ -1,0 +1,14 @@
+{
+  "articles": [
+    {
+      "id": "1",
+      "title": "10 Mistakes I Made My First Year As An Engineer",
+      "link": "https://tyler-george.medium.com/10-mistakes-i-made-my-first-year-as-an-engineer-66a2f4b12c0f"
+    },
+    {
+      "id": "2",
+      "title": "5 Big Mistakes Engineers Make on the Job",
+      "link": "https://engineeringmanagementinstitute.org/mistakes-engineers-make-job/"
+    }
+  ]
+}
