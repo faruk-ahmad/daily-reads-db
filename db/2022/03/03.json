@@ -1,1 +1,15 @@
 
+{
+  "articles": [
+    {
+      "id": "1",
+      "title": "How Khan academy rewrote their backend?",
+      "link": "https://www.quastor.org/p/how-khan-academy-rewrote-their-backend?s=r"
+    },
+    {
+      "id": "2",
+      "title": "5 Big Mistakes Engineers Make on the Job",
+      "link": "https://engineeringmanagementinstitute.org/mistakes-engineers-make-job/"
+    }
+  ]
+}
